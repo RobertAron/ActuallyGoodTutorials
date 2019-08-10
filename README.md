@@ -8,3 +8,5 @@ Read me to tutorials that I like
 [Every Layout](https://every-layout.dev/) - CSS
 
 [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) - Git
+
+[https://devhints.io/](https://devhints.io/) - Pretty Much Everything
