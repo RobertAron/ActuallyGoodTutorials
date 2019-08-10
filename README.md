@@ -6,3 +6,5 @@ Read me to tutorials that I like
 [Serverless Stack](https://serverless-stack.com/) - AWS, Serverless (sls), React
 
 [Every Layout](https://every-layout.dev/) - CSS
+
+[Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) - Git
