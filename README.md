@@ -10,3 +10,5 @@ Read me to tutorials that I like
 [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) - Git
 
 [Dev Hints (CheatSheets)](https://devhints.io/) - Pretty Much Everything
+
+[Easings.net](https://easings.net/) - Quick cheat sheet for animation speeds
