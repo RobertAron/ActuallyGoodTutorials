@@ -12,3 +12,5 @@ Read me to tutorials that I like
 [Dev Hints (CheatSheets)](https://devhints.io/) - Pretty Much Everything
 
 [Easings.net](https://easings.net/) - Quick cheat sheet for animation speeds
+
+[Samantha Ming](https://www.samanthaming.com/) - JS, HTML, CSS tidbits and tricks
