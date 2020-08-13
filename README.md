@@ -14,3 +14,5 @@ Read me to tutorials that I like
 [Easings.net](https://easings.net/) - Quick cheat sheet for animation speeds
 
 [Samantha Ming](https://www.samanthaming.com/) - JS, HTML, CSS tidbits and tricks
+
+[10 Modern CSS layouts](https://1linelayouts.glitch.me/) + [Video](https://www.youtube.com/watch?v=qm0IfG1GyZU) - Tools in 2020 that make css seem easy
