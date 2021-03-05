@@ -18,3 +18,5 @@ Read me to tutorials that I like
 [10 Modern CSS layouts](https://1linelayouts.glitch.me/) + [Video](https://www.youtube.com/watch?v=qm0IfG1GyZU) - Tools in 2020 that make css seem easy
 
 [Intro to typescript](https://basarat.gitbook.io/typescript/) - Everything you need to know about why typescript is around, and how to get started using it.
+
+[conditional types in ts explained](https://mariusschulz.com/blog/conditional-types-in-typescript) - Shows the step by step mental model of how conditional types in ts work
