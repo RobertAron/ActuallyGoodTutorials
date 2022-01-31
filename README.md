@@ -24,3 +24,5 @@ Read me to tutorials that I like
 [Web Forms](https://css-tricks.com/making-disabled-buttons-more-inclusive/) - Creating Accessible HTML Forms. Avoiding the native solution pitfalls.
 
 [Josh W Comeau](https://www.joshwcomeau.com/) - All things frontend(React,Animation,CSS,Career,Gatsby,Next.js,Performance)
+
+[React Common TS Types Cheapsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example/) - "What type should children be?" Stuff like that in here.
