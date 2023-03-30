@@ -7,7 +7,7 @@ Read me to tutorials that I like
 
 [Every Layout](https://every-layout.dev/) - CSS
 
-[Databases](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction) - Databases
+[Planet Scale Course](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction) - Databases
 
 [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) - Git
 
