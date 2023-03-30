@@ -1,9 +1,9 @@
 # ActuallyGoodTutorials
 Read me to tutorials that I like
 
-[React Docs](https://reactjs.org/docs/getting-started.html) - React
+[React Docs](https://react.dev/) - React, written so well.
 
-[Serverless Stack](https://serverless-stack.com/) - AWS, Serverless (sls), React
+[Josh W Comeau](https://www.joshwcomeau.com/) - All things frontend(React,Animation,CSS,Career,Gatsby,Next.js,Performance)
 
 [Every Layout](https://every-layout.dev/) - CSS
 
@@ -22,7 +22,5 @@ Read me to tutorials that I like
 [conditional types in ts explained](https://mariusschulz.com/blog/conditional-types-in-typescript) - Shows the step by step mental model of how conditional types in ts work
 
 [Web Forms](https://css-tricks.com/making-disabled-buttons-more-inclusive/) - Creating Accessible HTML Forms. Avoiding the native solution pitfalls.
-
-[Josh W Comeau](https://www.joshwcomeau.com/) - All things frontend(React,Animation,CSS,Career,Gatsby,Next.js,Performance)
 
 [React Common TS Types Cheapsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example/) - "What type should children be?" Stuff like that in here.
