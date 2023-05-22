@@ -26,3 +26,5 @@ Read me to tutorials that I like
 [Web Forms](https://css-tricks.com/making-disabled-buttons-more-inclusive/) - Creating Accessible HTML Forms. Avoiding the native solution pitfalls.
 
 [React Common TS Types Cheapsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example/) - "What type should children be?" Stuff like that in here.
+
+[New web transition API](https://developer.chrome.com/docs/web-platform/view-transitions/) - Still in beta but works as a progressive enhancement. Lets you do complicated transitions on the web - even between URL changes.
